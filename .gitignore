@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Local Environment Variables
+.env
+
+# Google Cloud Credentials File
+gcp-credentials.json
